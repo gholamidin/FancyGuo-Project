@@ -19,3 +19,5 @@ camera_sample.lua 摄像机控制
 rungirl.lua 奔跑的女战士
 
 whac_a_mole.lua 打地鼠小游戏
+
+And all original animation models are stored om the Clint side.  
